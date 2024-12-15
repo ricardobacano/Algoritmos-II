@@ -46,8 +46,7 @@ Neste trabalho, os seguintes algoritmos foram implementados em C:
 - Cada algoritmo é executado sobre este vetor, com versões recursivas e não recursivas.
 
 ### Observações
-- A implementação do `malloc` segue o padrão com `cast`, garantindo compatibilidade com os compiladores usados na disciplina.
-- Durante a execução, pilhas auxiliares podem ser usadas para substituir a recursão.
+- Neste trabalho, foi utilizado pilhas auxiliares para substituir a recursão.
 - Todos os resultados foram descritos em um relatório.
 
 ---
@@ -62,4 +61,4 @@ Neste trabalho, os seguintes algoritmos foram implementados em C:
 ### Passos para Compilar
 1. Navegue até o diretório do trabalho.
 2. Execute `make` para compilar o código.
-3. Após a compilação, execute o binário gerado por cada trabalho
+3. Após a compilação, execute o binário gerado por cada trabalho.
